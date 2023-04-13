@@ -34,4 +34,5 @@
  13. `tail: line too long, stdin`
  14. `tail: line too long, file`
  15. `tail: line too long with -n, stdin`
+ 16. `tail: -n option larger than number of lines`
   
